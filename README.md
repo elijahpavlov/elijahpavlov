@@ -15,7 +15,7 @@
    
    ## CV
 
-   <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
+   <a name="cv" href="#" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
    <h3><a name="hh" href="#">CV on hh.ru</a></h3>
 </div>
 
