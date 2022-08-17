@@ -9,14 +9,14 @@
 ## There are some links to contact me:
   
 <a name="telegram" href="https://t.me/capelin"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
-<a name="watsapp" href="https://wa.me/79990634779"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
-<a name="linkedin" href="linkedin.com/in/dmitrii-kurlov"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
-<a name="gmail" href="mailto:kurlatovdjob@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
+<a name="watsapp" href="#"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
+<a name="linkedin" href="#"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
+<a name="gmail" href="mailto:elijahpavlov.jobs@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
    ## CV
 
    <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
-   <h3><a name="hh" href="https://spb.hh.ru/applicant/resumes/view?resume=cf1b0ee1ff0951505c0039ed1f623071336f6d">CV on hh.ru</a></h3>
+   <h3><a name="hh" href="#">CV on hh.ru</a></h3>
 </div>
 
 ## 🛠 My Tech Stack:
