@@ -1,10 +1,9 @@
 <h1 align="center">Hello, I'm Elijah Pavlov 👋</h1>
-<div>
 <h3 align="center"><br>
    I'm a FullStack JS Developer.<br>
 </h3>
 
-<a align="right" href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Capelinx/badges/large"></a>
+<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Capelinx/badges/large"></a>
   
 ## There are some links to contact me:
   
@@ -16,7 +15,6 @@
 
    <a name="cv" href="#" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
    <h3><a name="hh" href="#">CV on hh.ru</a></h3>
-</div>
 
 ## 🛠 My Tech Stack:
 
