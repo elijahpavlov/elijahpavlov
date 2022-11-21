@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Elijah Pavlov 👋</h1>
 <div>
-<h3 align="center">Nice to meet you!<br>
+<h3 align="center"><br>
    I'm a FullStack JS Developer.<br>
 </h3>
 
-<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Capelinx/badges/large"></a>
+<a align="right" href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Capelinx/badges/large"></a>
   
 ## There are some links to contact me:
   
