@@ -4,7 +4,7 @@
    My name is Elijah Pavlov and I'm a FullStack JS Developer.<br>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahpavlov&layout=compact)
+<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Capelinx/badges/large"></a>
   
 ## There are some links to contact me:
   
