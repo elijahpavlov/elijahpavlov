@@ -1,8 +1,8 @@
-# Hello There! 👋 
+<h1 align="center">Hello, I'm Elijah Pavlov 👋</h1>
 <div>
-<p>Nice to meet you!<br>
-   My name is Elijah Pavlov and I'm a FullStack JS Developer.<br>
-</p>
+<h3 align="center">Nice to meet you!<br>
+   I'm a FullStack JS Developer.<br>
+</h3>
 
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Capelinx/badges/large"></a>
   
